@@ -23,8 +23,9 @@ Este script é escrito em Python e utiliza as bibliotecas pandas, numpy, pycoing
 8. Estas simulações são armazenadas num DataFrame, e o script calcula os cenários de preço mais provável, mais alto e mais baixo.
 
 9. O script então plota estes cenários para visualizar as simulações, o cenário de preço mais provável, mais alto e mais baixo para o Bitcoin.
+    ![output1](output1.png)
 
-10. Finalmente, o script calcula os retornos potenciais num investimento de €10,000 para cada um destes cenários e imprime-os.
+11. Finalmente, o script calcula os retornos potenciais num investimento de €10,000 para cada um destes cenários e imprime-os.
 
 ## Importante
 Tenha em mente que as previsões são sempre incertas e dependem muito das suposições que você faz, como usar dados históricos para prever retornos futuros. O futuro nem sempre se parece com o passado.
