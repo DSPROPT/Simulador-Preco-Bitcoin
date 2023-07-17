@@ -1,3 +1,5 @@
+[!Geek4Maniacs]()
+
 # Simulação de Preço de Bitcoin
 
 Este script é escrito em Python e utiliza as bibliotecas pandas, numpy, pycoingecko e matplotlib. O principal objetivo do script é simular o preço futuro do Bitcoin ao longo dos próximos 365 dias e calcular os potenciais retornos de um investimento de €10,000.
