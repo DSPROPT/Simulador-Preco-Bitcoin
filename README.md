@@ -1,4 +1,4 @@
-[!Geek4Maniacs](logogeek.png)
+![Geek4Maniacs](logogeek.png)
 
 # Simulação de Preço de Bitcoin
 
