@@ -44,12 +44,7 @@ Tenha em mente que as previsões são sempre incertas e dependem muito das supos
 
 2. Execute o script:
     ```
-    python script_name.py
+    python3 bitcoin_price_simulation.py
     ```
-Substitua "script_name.py" pelo nome do arquivo que contém o script.
 
-## Contribuições
-As contribuições para este projeto são bem-vindas. Sinta-se à vontade para abrir um problema ou fazer um pull request.
 
-## Licença
-Este projeto é licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
